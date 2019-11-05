@@ -1,3 +1,6 @@
+# This repo is a modification of LSD-SLAM by Corey Marcus in the NEAR Lab at UT Austin ASE. I attempt to get LSD-SLAM working for ubuntu 18.04 and ROS Melodics
+
+
 # LSD-SLAM: Large-Scale Direct Monocular SLAM
 
 LSD-SLAM is a novel approach to real-time monocular SLAM. It is fully direct (i.e. does not use keypoints / features) and creates large-scale, 
